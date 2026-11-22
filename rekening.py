@@ -1,8 +1,3 @@
-# ==========================================================
-# File   : rekening.py
-# Isi    : Superclass Rekening
-# ==========================================================
-
 class Rekening:
     """Superclass: merepresentasikan rekening bank secara umum."""
 
