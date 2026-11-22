@@ -1,7 +1,3 @@
-# ==========================================================
-# File   : rekening_tabungan.py
-# Isi    : Subclass RekeningTabungan (extends Rekening)
-# ==========================================================
 from rekening import Rekening
 
 
