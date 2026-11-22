@@ -1,7 +1,3 @@
-# ==========================================================
-# File   : rekening_giro.py
-# Isi    : Subclass RekeningGiro (extends Rekening)
-# ==========================================================
 from rekening import Rekening
 
 
