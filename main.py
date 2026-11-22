@@ -1,8 +1,3 @@
-# ==========================================================
-# File   : main.py
-# Isi    : Program utama (menu CLI) Aplikasi Rekening Bank Mini
-# Jalankan: python main.py
-# ==========================================================
 from rekening_tabungan import RekeningTabungan
 from rekening_giro import RekeningGiro
 from transaksi import Transaksi
