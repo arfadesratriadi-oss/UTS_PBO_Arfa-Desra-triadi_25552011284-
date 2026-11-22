@@ -1,8 +1,3 @@
-# ==========================================================
-# File   : transaksi.py
-# Isi    : Class relasi Association -> setiap Transaksi
-#          terkait ke satu Rekening
-# ==========================================================
 from datetime import datetime
 
 
